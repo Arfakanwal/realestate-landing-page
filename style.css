@@ -1,0 +1,15 @@
+body{
+    overflow-x: hidden; 
+} 
+    
+.container{
+    box-sizing: border-box;
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%) !important;
+   
+      
+}
+
+
+.card{
+    margin-left: 10px;
+}
